@@ -1,0 +1,43 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="eD6Q26grrHlRE3gMg_Mh">
+    <mxGraphModel dx="844" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A2FcZYvsWKeb8PKjrFP1-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Admin Akademik" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FcZYvsWKeb8PKjrFP1-6" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="Sistem Laboratorium" vertex="1">
+          <mxGeometry height="520" width="475" x="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FcZYvsWKeb8PKjrFP1-2" parent="A2FcZYvsWKeb8PKjrFP1-6" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="420" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FcZYvsWKeb8PKjrFP1-11" parent="A2FcZYvsWKeb8PKjrFP1-6" style="ellipse;html=1;whiteSpace=wrap;" value="Kelola Jadwal Kuliah" vertex="1">
+          <mxGeometry height="60" width="125" x="150" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FcZYvsWKeb8PKjrFP1-14" edge="1" parent="A2FcZYvsWKeb8PKjrFP1-6" source="A2FcZYvsWKeb8PKjrFP1-11" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.514;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" target="A2FcZYvsWKeb8PKjrFP1-2" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="275.0000000000002" y="159.9999999999999" as="sourcePoint" />
+            <mxPoint x="410" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2FcZYvsWKeb8PKjrFP1-18" parent="A2FcZYvsWKeb8PKjrFP1-6" style="html=1;whiteSpace=wrap;" value="Fungsi LIhat Jadwal Kuliah" vertex="1">
+          <mxGeometry height="50" width="110" x="220" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FcZYvsWKeb8PKjrFP1-19" edge="1" parent="A2FcZYvsWKeb8PKjrFP1-6" source="A2FcZYvsWKeb8PKjrFP1-18" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="A2FcZYvsWKeb8PKjrFP1-2" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="280" y="210" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2FcZYvsWKeb8PKjrFP1-20" edge="1" parent="1" source="A2FcZYvsWKeb8PKjrFP1-1" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="A2FcZYvsWKeb8PKjrFP1-11" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="100" y="280" as="sourcePoint" />
+            <mxPoint x="235" y="284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
