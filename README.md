@@ -15,3 +15,9 @@ Identitas      : 2406034 Rizal Septiazi
 Kakas          : Draw.io
 Status Latihan : USE CASE DIAGRAM DAN USE CASE DESCRIPTION
 Kelas          : Teknik Informatika A
+
+Pertemuan 4
+Identitas      : 2406034 Rizal Septiazi
+Kakas          : Draw.io
+Status Latihan : USE CASE DIAGRAM LANJUTAN : GENERALIZATION DAN COLLABORATIOn
+Kelas          : Teknik Informatika A
