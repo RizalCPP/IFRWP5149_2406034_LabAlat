@@ -74,5 +74,61 @@ Tujuan terhadap sistem  : Melihat laporan peminjaman.
 | LAB-UC11 | Catat Pengembalian Peralatan | Baru pada Pertemuan 4; fungsi utama petugas; direalisasikan LAB-CO02 | LAB-R09 |
 | LAB-UC12 | Periksa Kondisi Peralatan | Baru pada Pertemuan 4; perilaku yang disertakan LAB-UC11 | LAB-R10 |
 
+<!-- Generalization Aktor -->
+
+1) Generalisasi Aktor (Actor Generalization)
+
+    - Hierarki Aktor:
+
+        - Parent Actor (Induk / Abstrak): Peminjam
+
+        - Child Actors (Anak / Konkret): Mahasiswa dan Dosen
+
+        - Fungsi yang Diwarisi (Inherited Functions):
+
+        - LAB-UC01 Lihat Ketersediaan Peralatan
+
+        - LAB-UC03 Ajukan Peminjaman
+
+    - Catatan: Asosiasi ke kedua use case ini cukup ditarik satu kali dari aktor induk Peminjam.
+
+    - Fungsi Spesifik Aktor Anak:
+
+        - LAB-UC05 Cetak Bukti Pengajuan: Tetap dihubungkan secara khusus ke aktor Mahasiswa dan tidak diwariskan atau dipindahkan ke Peminjam.
+
+    - Keputusan & Alasan Pemodelan:
+
+        - Hubungan Spesialisasi: Mahasiswa dan Dosen merupakan bentuk khusus dari Peminjam karena keduanya berbagi fungsi dasar yang sama, yaitu melihat ketersediaan peralatan dan mengajukan peminjaman.
+
+        - Penyederhanaan Diagram: Garis asosiasi ke LAB-UC01 dan LAB-UC03 tidak digambar terpisah dari Mahasiswa dan Dosen untuk mencegah redundansi garis.
+
+        - Pemisahan Hak Akses Spesifik: Asosiasi Mahasiswa ke LAB-UC05 dipertahankan secara khusus pada aktor anak karena fungsi cetak bukti pengajuan hanya berlaku untuk mahasiswa.
+
+    - Aturan Visual Penggambaran Diagram:
+
+        - Gunakan garis generalisasi (garis lurus berujung segitiga berongga/putih ▲).
+
+        - Ujung segitiga berongga harus menempel pada aktor induk (Peminjam).
+
+        - Panah dari Mahasiswa mengarah ke Peminjam, dan panah dari Dosen juga mengarah ke Peminjam.
+
+<!-- Generalization Use Case -->
+
+2) Generalisasi Use Case (Use Case Generalization)
+
+    - Induk (Parent Use Case): LAB-UC02 Kelola Data Peralatan
+
+    - Anak (Child Use Cases):
+
+        - LAB-UC08 Tambah Data Peralatan
+
+        - LAB-UC09 Ubah Data Peralatan
+
+        - LAB-UC10 Hapus Data Peralatan
+
+    - Aturan Visual Penggambaran Diagram:
+
+        - Panah generalisasi (segitiga berongga ▲) ditarik dari masing-masing use case khusus (LAB-UC08, LAB-UC09, LAB-UC10) mengarah ke use case induk (LAB-UC02).
+
 
 
