@@ -1,0 +1,1057 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6" pages="7">
+  <diagram name="SIA-UC07" id="iEThz_rpC2FrS8yP1Zwf">
+    <mxGraphModel dx="872" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" value="&lt;b&gt;1. Skenario SIA-UC07&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="childLayout=tableLayout;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="440" width="640" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Nama use case" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="SIA-UC07 Lihat Kalender Akademik" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Aktor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Civitas Akademika (berlaku untuk Mahasiswa dan Dosen)" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Tujuan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Agenda resmi institusi dapat dilihat oleh seluruh civitas akademika" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Deskripsi&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Civitas akademika mengakses dan melihat daftar agenda resmi akademik kampus (awal semester, batas KRS, masa ujian)" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Kegiatan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Respon sistem&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="19" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Normal&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="50" width="640" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="1. Civitas akademika memilih menu Lihat Kalender Akademik" vertex="1">
+          <mxGeometry height="50" width="240" as="geometry">
+            <mxRectangle height="50" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="2. Sistem memuat dan menampilkan daftar agenda resmi akademik institusi secara runtut" vertex="1">
+          <mxGeometry height="50" width="400" x="240" as="geometry">
+            <mxRectangle height="50" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Alternative&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="55" width="640" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="27" parent="26" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="3. Kalender akademik belum dipublikasikan oleh institusi (cabang dari langkah 2)" vertex="1">
+          <mxGeometry height="55" width="240" as="geometry">
+            <mxRectangle height="55" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" parent="26" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="4. Sistem menampilkan pesan bahwa kalender akademik belum tersedia" vertex="1">
+          <mxGeometry height="55" width="400" x="240" as="geometry">
+            <mxRectangle height="55" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="65" width="640" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="30" parent="29" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Akhir&lt;/b&gt;" vertex="1">
+          <mxGeometry height="65" width="240" as="geometry">
+            <mxRectangle height="65" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" parent="29" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Use case selesai jika kalender akademik berhasil ditampilkan; jika belum dipublikasikan, sistem menampilkan pesan informasi." vertex="1">
+          <mxGeometry height="65" width="400" x="240" as="geometry">
+            <mxRectangle height="65" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-DCHusQjwDtI4iy2n434" name="SIA-UC08">
+    <mxGraphModel dx="872" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" value="&lt;b&gt;2. Skenario SIA-UC08&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="childLayout=tableLayout;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="595" width="640" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Nama use case" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="SIA-UC08 Input Nilai Mata Kuliah" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Aktor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Dosen" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Tujuan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Nilai mata kuliah mahasiswa tercatat ke dalam sistem oleh dosen pengampu" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Deskripsi&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Dosen memasukkan nilai akhir mahasiswa pada mata kuliah yang diampu. Use case ini direalisasikan oleh collaboration SIA-CO01." vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Kegiatan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Respon sistem&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="19" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Normal&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="55" width="640" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="1. Dosen memilih menu Input Nilai Mata Kuliah" vertex="1">
+          <mxGeometry height="55" width="240" as="geometry">
+            <mxRectangle height="55" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="2. Sistem memeriksa wewenang dan menampilkan daftar mata kuliah/kelas yang diampu oleh dosen tersebut" vertex="1">
+          <mxGeometry height="55" width="400" x="240" as="geometry">
+            <mxRectangle height="55" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="3. Dosen memilih mata kuliah dan menginput nilai mahasiswa" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="4. Sistem memeriksa validasi rentang nilai yang dimasukkan" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="55" width="640" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="28" parent="27" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="5. Dosen menyimpan pengisian nilai" vertex="1">
+          <mxGeometry height="55" width="240" as="geometry">
+            <mxRectangle height="55" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" parent="27" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="6. Sistem menyimpan data nilai dengan status siap dipublikasikan dan menampilkan notifikasi berhasil" vertex="1">
+          <mxGeometry height="55" width="400" x="240" as="geometry">
+            <mxRectangle height="55" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="31" parent="30" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Alternative&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="55" width="640" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="7. Dosen bukan pengampu resmi mata kuliah tersebut (cabang dari langkah 2)" vertex="1">
+          <mxGeometry height="55" width="240" as="geometry">
+            <mxRectangle height="55" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="8. Sistem menolak akses dan tidak menampilkan formulir pengisian nilai" vertex="1">
+          <mxGeometry height="55" width="400" x="240" as="geometry">
+            <mxRectangle height="55" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="36" parent="35" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="9. Nilai yang dimasukkan berada di luar rentang sah (&amp;lt; 0 atau &amp;gt; 100) (cabang dari langkah 4)" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" parent="35" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="10. Sistem menampilkan pesan peringatan nilai tidak valid dan menolak penyimpanan" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="70" width="640" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="39" parent="38" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Akhir&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="240" as="geometry">
+            <mxRectangle height="70" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40" parent="38" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Use case selesai jika nilai tersimpan dengan status siap dipublikasikan; jika dosen bukan pengampu atau nilai di luar rentang sah, nilai ditolak dan tidak tersimpan." vertex="1">
+          <mxGeometry height="70" width="400" x="240" as="geometry">
+            <mxRectangle height="70" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4oK9Cc5xFdI8RfJklbPk" name="SIA-UC09">
+    <mxGraphModel dx="872" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" value="&lt;b&gt;3. Skenario SIA-UC09&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="childLayout=tableLayout;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="490" width="640" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Nama use case" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="SIA-UC09 Lihat KHS" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Aktor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Tujuan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Mahasiswa dapat melihat hasil studi semester yang telah resmi dipublikasikan" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="65" width="640" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Deskripsi&lt;/b&gt;" vertex="1">
+          <mxGeometry height="65" width="240" as="geometry">
+            <mxRectangle height="65" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Mahasiswa melihat Kartu Hasil Studi (KHS). Use case ini direalisasikan oleh collaboration SIA-CO02. Hanya nilai yang sudah dipublikasikan yang ditampilkan." vertex="1">
+          <mxGeometry height="65" width="400" x="240" as="geometry">
+            <mxRectangle height="65" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Kegiatan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Respon sistem&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="19" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Normal&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="1. Mahasiswa memilih menu Lihat KHS" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="2. Sistem menampilkan daftar pilihan semester" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="3. Mahasiswa memilih semester yang ingin dilihat" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="4. Sistem memuat dan menampilkan KHS yang hanya berisi nilai mata kuliah dengan status resmi dipublikasikan" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="28" parent="27" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Alternative&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="30" parent="29" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="5. Belum ada nilai yang dipublikasikan pada semester yang dipilih (cabang dari langkah 4)" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" parent="29" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="6. Sistem menampilkan halaman KHS kosong dengan pesan bahwa nilai belum dipublikasikan" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="65" width="640" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Akhir&lt;/b&gt;" vertex="1">
+          <mxGeometry height="65" width="240" as="geometry">
+            <mxRectangle height="65" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Use case selesai jika KHS berhasil ditampilkan dengan nilai yang terpublikasi; jika belum ada nilai resmi, KHS ditampilkan tanpa daftar nilai." vertex="1">
+          <mxGeometry height="65" width="400" x="240" as="geometry">
+            <mxRectangle height="65" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GeGETDznRJHcvWyLfJ72" name="SIA-UC10">
+    <mxGraphModel dx="872" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" value="&lt;b&gt;4. Skenario SIA-UC10&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="childLayout=tableLayout;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="570" width="640" x="40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Nama use case" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="SIA-UC10 Kelola Data Mahasiswa" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Aktor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Admin Akademik" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Tujuan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Tata kelola dan pemeliharaan data mahasiswa terselenggara dengan baik" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Deskripsi&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Skenario umum pengelolaan data mahasiswa yang memuat langkah bersama yang dirujuk oleh UC11, UC12, dan UC13" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Kegiatan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Respon sistem&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="19" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Normal&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="75" width="640" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="1. Admin Akademik memilih menu Kelola Data Mahasiswa" vertex="1">
+          <mxGeometry height="75" width="240" as="geometry">
+            <mxRectangle height="75" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="2. Sistem menampilkan daftar data mahasiswa beserta pilihan aksi (Tambah, Ubah, Hapus)" vertex="1">
+          <mxGeometry height="75" width="400" x="240" as="geometry">
+            <mxRectangle height="75" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="3. Admin Akademik memilih salah satu aksi pengelolaan khusus" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="4. Sistem menjalankan skenario khusus yang sesuai (lihat Tabel skenario SIA-UC11, SIA-UC12, atau SIA-UC13)" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="28" parent="27" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="5. Admin Akademik mengonfirmasi hasil pengelolaan data" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" parent="27" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="6. Sistem memperbarui tampilan daftar data mahasiswa dan menampilkan notifikasi status proses" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="31" parent="30" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Alternative&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="55" width="640" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="7. Admin Akademik membatalkan proses pengelolaan (cabang dari langkah 3)" vertex="1">
+          <mxGeometry height="55" width="240" as="geometry">
+            <mxRectangle height="55" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="8. Sistem membatalkan aksi dan kembali ke tampilan daftar data mahasiswa" vertex="1">
+          <mxGeometry height="55" width="400" x="240" as="geometry">
+            <mxRectangle height="55" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="65" width="640" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="36" parent="35" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Akhir&lt;/b&gt;" vertex="1">
+          <mxGeometry height="65" width="240" as="geometry">
+            <mxRectangle height="65" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" parent="35" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Use case selesai jika data mahasiswa berhasil dikelola melalui skenario khusus; jika dibatalkan, daftar data mahasiswa tidak mengalami perubahan." vertex="1">
+          <mxGeometry height="65" width="400" x="240" as="geometry">
+            <mxRectangle height="65" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iwh9EYpFBQkvFquDpoj-" name="SIA-UC11">
+    <mxGraphModel dx="872" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" value="&lt;b&gt;5. Skenario SIA-UC11&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="childLayout=tableLayout;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="520" width="640" x="40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Nama use case" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="SIA-UC11 Tambah Data Mahasiswa" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Aktor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Admin Akademik" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Tujuan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Rekam data mahasiswa baru berhasil terdaftar di dalam sistem" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Deskripsi&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Use case khusus dari SIA-UC10. Perilaku pembeda: pengisian formulir dan penyimpanan rekam data mahasiswa baru" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Kegiatan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Respon sistem&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="19" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Normal&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="1. Admin Akademik memilih opsi Tambah Data Mahasiswa (lanjutan langkah 3 dari Tabel skenario SIA-UC10)" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="2. Sistem menampilkan formulir pendaftaran data mahasiswa baru" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="65" width="640" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="3. Admin Akademik mengisi identitas lengkap mahasiswa baru dan mengirim data" vertex="1">
+          <mxGeometry height="65" width="240" as="geometry">
+            <mxRectangle height="65" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="4. Sistem memvalidasi kelengkapan data, menyimpan rekam data mahasiswa baru, dan melanjutkan ke langkah 5 Tabel skenario SIA-UC10" vertex="1">
+          <mxGeometry height="65" width="400" x="240" as="geometry">
+            <mxRectangle height="65" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="28" parent="27" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Alternative&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="30" parent="29" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="5. Isian data mahasiswa tidak lengkap atau format NIM sudah ada (cabang dari langkah 4)" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" parent="29" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="6. Sistem menampilkan pesan kesalahan dan meminta Admin Akademik melengkapi/memperbaiki data" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="65" width="640" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Akhir&lt;/b&gt;" vertex="1">
+          <mxGeometry height="65" width="240" as="geometry">
+            <mxRectangle height="65" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Use case selesai jika data mahasiswa baru berhasil tersimpan; jika isian tidak valid, data tidak tersimpan sampai formulir dilengkapi." vertex="1">
+          <mxGeometry height="65" width="400" x="240" as="geometry">
+            <mxRectangle height="65" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="E9VH_8XHhKXbh9ifAv0u" name="SIA-UC12">
+    <mxGraphModel dx="872" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" value="&lt;b&gt;6. Skenario SIA-UC12&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="childLayout=tableLayout;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="495" width="640" x="40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Nama use case" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="SIA-UC12 Ubah Data Mahasiswa" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Aktor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Admin Akademik" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Tujuan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Informasi profil mahasiswa terdaftar berhasil diperbarui" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="55" width="640" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Deskripsi&lt;/b&gt;" vertex="1">
+          <mxGeometry height="55" width="240" as="geometry">
+            <mxRectangle height="55" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Use case khusus dari SIA-UC10. Perilaku pembeda: pembaruan informasi data mahasiswa terpilih" vertex="1">
+          <mxGeometry height="55" width="400" x="240" as="geometry">
+            <mxRectangle height="55" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Kegiatan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Respon sistem&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="19" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Normal&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="1. Admin Akademik memilih data mahasiswa dan memilih opsi Ubah Data (lanjutan langkah 3 dari Tabel skenario SIA-UC10)" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="2. Sistem menampilkan formulir ubah data beserta informasi mahasiswa saat ini" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="65" width="640" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="3. Admin Akademik mengubah data yang diperlukan dan menyimpan perubahan" vertex="1">
+          <mxGeometry height="65" width="240" as="geometry">
+            <mxRectangle height="65" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="4. Sistem memvalidasi data, memperbarui rekam data mahasiswa, dan melanjutkan ke langkah 5 Tabel skenario SIA-UC10" vertex="1">
+          <mxGeometry height="65" width="400" x="240" as="geometry">
+            <mxRectangle height="65" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="28" parent="27" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Alternative&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="55" width="640" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="30" parent="29" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="5. Isian perubahan data tidak valid (cabang dari langkah 4)" vertex="1">
+          <mxGeometry height="55" width="240" as="geometry">
+            <mxRectangle height="55" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" parent="29" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="6. Sistem menampilkan pesan kesalahan dan meminta Admin Akademik mengoreksi data" vertex="1">
+          <mxGeometry height="55" width="400" x="240" as="geometry">
+            <mxRectangle height="55" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="65" width="640" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Akhir&lt;/b&gt;" vertex="1">
+          <mxGeometry height="65" width="240" as="geometry">
+            <mxRectangle height="65" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Use case selesai jika perubahan data berhasil disimpan; jika isian tidak valid, perubahan data tidak diterapkan." vertex="1">
+          <mxGeometry height="65" width="400" x="240" as="geometry">
+            <mxRectangle height="65" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8vbwno7RiTXtTHgyEdyP" name="SIA-UC13">
+    <mxGraphModel dx="872" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" value="&lt;b&gt;7. Skenario SIA-UC13&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="childLayout=tableLayout;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="510" width="640" x="40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Nama use case" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" parent="4" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="SIA-UC13 Hapus Data Mahasiswa" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Aktor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" parent="7" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="Admin Akademik" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="45" width="640" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Tujuan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="240" as="geometry">
+            <mxRectangle height="45" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" parent="10" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Rekam data mahasiswa yang tidak aktif berhasil dihapus dari sistem" vertex="1">
+          <mxGeometry height="45" width="400" x="240" as="geometry">
+            <mxRectangle height="45" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="55" width="640" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Deskripsi&lt;/b&gt;" vertex="1">
+          <mxGeometry height="55" width="240" as="geometry">
+            <mxRectangle height="55" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" parent="13" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Use case khusus dari SIA-UC10. Perilaku pembeda: penghapusan data mahasiswa dengan syarat tidak memiliki data akademik aktif" vertex="1">
+          <mxGeometry height="55" width="400" x="240" as="geometry">
+            <mxRectangle height="55" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Kegiatan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="240" as="geometry">
+            <mxRectangle height="30" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" parent="16" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Respon sistem&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="400" x="240" as="geometry">
+            <mxRectangle height="30" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="19" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Normal&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="70" width="640" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="1. Admin Akademik memilih data mahasiswa dan memilih opsi Hapus Data (lanjutan langkah 3 dari Tabel skenario SIA-UC10)" vertex="1">
+          <mxGeometry height="70" width="240" as="geometry">
+            <mxRectangle height="70" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" parent="21" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="2. Sistem memeriksa status akademik mahasiswa dan menampilkan dialog konfirmasi penghapusan" vertex="1">
+          <mxGeometry height="70" width="400" x="240" as="geometry">
+            <mxRectangle height="70" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="60" width="640" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="3. Admin Akademik mengonfirmasi penghapusan data" vertex="1">
+          <mxGeometry height="60" width="240" as="geometry">
+            <mxRectangle height="60" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" parent="24" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="4. Sistem menghapus rekam data mahasiswa dan melanjutkan ke langkah 5 Tabel skenario SIA-UC10" vertex="1">
+          <mxGeometry height="60" width="400" x="240" as="geometry">
+            <mxRectangle height="60" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="28" parent="27" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Alternative&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="640" as="geometry">
+            <mxRectangle height="30" width="640" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="65" width="640" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="30" parent="29" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="5. Mahasiswa masih memiliki data akademik aktif (cabang dari langkah 2)" vertex="1">
+          <mxGeometry height="65" width="240" as="geometry">
+            <mxRectangle height="65" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" parent="29" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="6. Sistem menolak penghapusan, menampilkan pesan bahwa mahasiswa masih memiliki data akademik aktif, dan membatalkan proses" vertex="1">
+          <mxGeometry height="65" width="400" x="240" as="geometry">
+            <mxRectangle height="65" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" parent="3" style="shape=tableRow;horizontal=0;startSize=0;swimmingPool=0;collapsible=0;dropTarget=0;points=[];strokeColor=none;fillColor=none;top=0;left=0;bottom=0;right=0;enqueue=0;allowArrows=0;part=1;" value="" vertex="1">
+          <mxGeometry height="65" width="640" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="&lt;b&gt;Skenario Akhir&lt;/b&gt;" vertex="1">
+          <mxGeometry height="65" width="240" as="geometry">
+            <mxRectangle height="65" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" parent="32" style="connectable=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;fontSize=12;fontFamily=Helvetica;" value="Use case selesai jika rekam data mahasiswa terhapus; jika mahasiswa memiliki data akademik aktif, proses ditolak dan data tidak dihapus." vertex="1">
+          <mxGeometry height="65" width="400" x="240" as="geometry">
+            <mxRectangle height="65" width="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
