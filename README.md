@@ -27,3 +27,9 @@ Identitas      : 2406034 Rizal Septiazi
 Kakas          : Draw.io
 Status Latihan : SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN 
 Kelas          : Teknik Informatika A
+
+Pertemuan 6
+Identitas      : 2406034 Rizal Septiazi
+Kakas          : Draw.io
+Status Latihan : ACTIVITY DIAGRAM: DARI SKENARIO KE ALUR AKTIVITAS
+Kelas          : Teknik Informatika A

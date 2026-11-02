@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="QRppa75j8DKbYk4569NY">
+    <mxGraphModel dx="1246" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pool" parent="1" style="collapsible=0;dropTarget=0;pointerEvents=0;semi=0;swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=0;strokeColor=#000000;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="720" width="600" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lane1" parent="pool" style="swimlane;horizontal=1;startSize=30;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;collapsible=0;" value="&lt;b&gt;Peminjam&lt;/b&gt;" vertex="1">
+          <mxGeometry height="720" width="300" as="geometry" />
+        </mxCell>
+        <mxCell id="node_start" parent="lane1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="137.5" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="act1" parent="lane1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;strokeColor=#000000;fillColor=#ffffff;" value="Membuka fungsi Lihat Ketersediaan&lt;br&gt;Peralatan" vertex="1">
+          <mxGeometry height="45" width="210" x="45" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="lane1" source="node_start" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthochordal=1;jettySize=auto;orthogonalLoop=1;html=1;strokeColor=#000000;endArrow=classic;endFill=1;" target="act1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lane2" parent="pool" style="swimlane;horizontal=1;startSize=30;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;collapsible=0;" value="&lt;b&gt;Sistem&lt;/b&gt;" vertex="1">
+          <mxGeometry height="720" width="300" x="300" as="geometry" />
+        </mxCell>
+        <mxCell id="act2" parent="lane2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;strokeColor=#000000;fillColor=#ffffff;" value="Menampilkan daftar peralatan beserta&lt;br&gt;status ketersediaannya" vertex="1">
+          <mxGeometry height="45" width="210" x="45" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="dec1" parent="lane2" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" value="Peralatan&lt;br&gt;tersedia?" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="act3" parent="lane2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;strokeColor=#82b366;fillColor=#d5e8d4;" value="Menampilkan pesan tidak ada&lt;br&gt;peralatan yang tersedia" vertex="1">
+          <mxGeometry height="50" width="210" x="45" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="mrg1" parent="lane2" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="135" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="node_end" parent="lane2" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="135" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="lane2" source="act2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthochordal=1;jettySize=auto;orthogonalLoop=1;html=1;strokeColor=#000000;endArrow=classic;endFill=1;" target="dec1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="lane2" source="dec1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthochordal=1;jettySize=auto;orthogonalLoop=1;html=1;strokeColor=#000000;endArrow=classic;endFill=1;labelBackgroundColor=#ffffff;align=center;" target="act3" value="[tidak tersedia]">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="lane2" source="dec1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthochordal=1;jettySize=auto;orthogonalLoop=1;html=1;strokeColor=#000000;endArrow=classic;endFill=1;labelBackgroundColor=#ffffff;align=center;" target="mrg1" value="[tersedia]">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="305" />
+              <mxPoint x="270" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="lane2" source="act3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthochordal=1;jettySize=auto;orthogonalLoop=1;html=1;strokeColor=#000000;endArrow=classic;endFill=1;" target="mrg1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="lane2" source="mrg1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthochordal=1;jettySize=auto;orthogonalLoop=1;html=1;strokeColor=#000000;endArrow=classic;endFill=1;" target="node_end">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="pool" source="act1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthochordal=1;jettySize=auto;orthogonalLoop=1;html=1;strokeColor=#000000;endArrow=classic;endFill=1;" target="act2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caption" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" value="&lt;b&gt;Gambar 6.3 Activity Diagram Lihat Ketersediaan Peralatan&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="600" x="40" y="775" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
